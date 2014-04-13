@@ -2,6 +2,14 @@ pdb_shell
 ===========
 
   add new mode, shell mode, to pdbpp. When you are in shell mode, anything you type will be python code, instead of pdb command.
+  
+  
+
+Install
+-------------
+``` bash
+pip install git+https://github.com/ya790206/pdb_shell
+```
 
 
 How to use
